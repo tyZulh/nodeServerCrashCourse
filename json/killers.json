@@ -1,0 +1,63 @@
+{
+  "killer":[
+    {
+        "id":1,
+        "image":"https://thenypost.files.wordpress.com/2018/10/gettyimages-1056121808.jpg?quality=90&strip=all&w=618&h=410&crop=1",
+        "name": "Michael Myers",
+        "type": "humain",
+        "price":9000,
+        "task":[{"task": "tuer", "rating":4}],
+        "location":"Grigny",
+        "description":"Ses yeux vous mentiront puis ils vous détruiront.Ils vous priveront de votre innocence, de votre fierté, peut-être même de votre âme.",
+        "quote":"..."
+    },
+    {
+        "id":2,
+        "image":"https://static.fnac-static.com/multimedia/images/FD/Comete/92412/CCP_IMG_ORIGINAL/1176183.jpg",
+        "name":"Jigsaw",
+        "type":"humain",
+        "rating": 4.5,
+        "price":7500,
+        "task":["tuer","harceler"],
+        "location":"Saint-Denis",
+        "description":"Le sadisme de cet individu vous laissera pantois.",
+        "quote":"Jouons à un jeu."
+    },
+    {
+        "id":3,
+        "image":"https://dailygeekshow.com/wp-content/uploads/2019/06/UNE-the-joker.jpg",
+        "name":"Joker",
+        "type":"humain",
+        "rating":4.7,
+        "price":5800,
+        "task":["harceler"],
+        "location":"Coulommier",
+        "description":"Rapide, efficace et sans trace.",
+        "quote":"Toi tu refuses de me tuer par principe. Et moi, je refuse de te tuer parce que tu es tellement amusant."
+    },
+    {
+        "id":4,
+        "image":"https://1.bp.blogspot.com/--luzbgdCETE/WcAI0loq5rI/AAAAAAAAOes/AtA0XvQDXq4nwVYqleVf_m40-1VYaPcFwCLcBGAs/s1600/ghostface.jpg",
+        "name":"Ghostface",
+        "type":"humain",
+        "rating":3.9,
+        "price":900,
+        "task":["tuer"],
+        "location":"Paris",
+        "description":"Il vous suivra jusque dans votre lit.",
+        "quote":"Bouh"
+    },
+    {
+        "id":5,
+        "image":"https://fotos02.laopinioncoruna.es/mmp/2019/01/30/1024x341/chuckyserie.jpg",
+        "name":"Chucky",
+        "type":"monstre",
+        "rating":1.2,
+        "price":63,
+        "task":["tuer","harceler", "coiffer"],
+        "location":"Boulogne-Billancourt",
+        "description":"Il se coupera les cheveux en quatre pour vous.",
+        "quote":"Prends ça dans ta gue**, grognasse."
+    }
+  ]
+}
